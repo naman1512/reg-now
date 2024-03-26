@@ -27,6 +27,10 @@ Overall, REGNOW transforms the course registration experience for DTU students b
 - **Supabase**: Stores data securely and scalably, ensuring the system can handle large amounts of data efficiently.
 - **Websockets**: Enables real-time communication between the client and server, providing real-time updates on course seats.
 
+## Source Code
+
+As this project is restricted to use due to college privacy, source code is not provided.
+
 ## Installation
 
 As this project is restricted to use due to college privacy, installation instructions are not provided.
